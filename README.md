@@ -1,2 +1,1 @@
-# BEEP
-beeps when close
+beep
